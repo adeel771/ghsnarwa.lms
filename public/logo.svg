@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-label="Government High School Narwa Bajmore logo">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b2545"/>
+      <stop offset="1" stop-color="#0f6b3d"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="8" width="64" height="64" rx="18" fill="url(#lg)"/>
+  <path d="M36 18 14 29l22 11 22-11z" fill="#f4c95d"/>
+  <path d="M23 34v10c0 4 5.8 7 13 7s13-3 13-7V34l-13 6.5z" fill="#fff"/>
+  <path d="M52 31v12" stroke="#f4c95d" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="52" cy="47" r="3" fill="#f4c95d"/>
+  <text x="82" y="35" font-family="Plus Jakarta Sans, Segoe UI, sans-serif" font-size="19" font-weight="800" fill="#0b2545">Government High School</text>
+  <text x="82" y="57" font-family="Plus Jakarta Sans, Segoe UI, sans-serif" font-size="15" font-weight="600" fill="#0f6b3d">Narwa Bajmore · Digital LMS</text>
+</svg>
